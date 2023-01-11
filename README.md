@@ -1,2 +1,1 @@
-# mqtt_training
-A dumping ground for various bits of video, and scripts I've created over time related to MQTT
+MQTT has been around for quite a while, yet in some industries it's still an outlier.  This repo contains the various scripts, and sample apps, video links and tutorials.  Hope it helps get up and running with MQTT.
